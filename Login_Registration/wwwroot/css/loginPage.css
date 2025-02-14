@@ -1,0 +1,65 @@
+body {
+  font-family: sans-serif;
+  background-color: #f3f3f3;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 400px; 
+  margin: 100px auto; 
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 7px rgba(0, 0, 0, 0.1);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%; 
+  box-sizing: border-box; 
+  padding-right: 40px; 
+}
+
+.password-container {
+  position: relative; 
+}
+
+.toggle-password {
+  position: absolute;
+  right: 10px; 
+  top: 10%;
+  cursor: pointer;
+  font-size: 18px;
+  color: #5f3078;
+}
+
+.toggle-password:hover {
+  color: #dcc3f4; 
+}
+
+button {
+  padding: 10px;
+  background-color: #5f3078;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #dcc3f4;
+}
+
+.typing{
+  background-color: #E8F0FE;
+}
+

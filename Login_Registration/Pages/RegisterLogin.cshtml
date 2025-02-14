@@ -1,0 +1,48 @@
+@page
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Register/Login Page</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="~/css/loginPage.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>Register</h1>
+        <form method="post" asp-page-handler="Register" id="registerForm">
+            <input type="text" id="name" placeholder="Name" required />
+            <input type="text" id="surname" placeholder="Surname" required />
+            <input type="text" id="phone" placeholder="Phone Number" />
+            <small id="phoneError" style="color: red"></small>
+            <input type="email" id="email" placeholder="Email Address" required />
+            <small id="emailError" style="color: red;"></small>
+            <div class="password-container">
+                <input type="password" class="password" id="password" placeholder="Password" required />
+                <small id="passwordError" style="color: red;"></small>
+                <span class="toggle-password" id="togglePassword">👁</span>
+            </div>
+            <div class="password-container">
+                <input type="password" class="password" id="confirmPassword" placeholder="Confirm Password" required />
+                <span class="toggle-password" id="toggleConfirmPassword">👁</span>
+            </div>
+            <button type="submit">Register</button>
+        </form>
+        <h1>Login</h1>
+        <form method="post" asp-page-handler="Login" id="loginForm" autocomplete="off">
+            <input type="email" id="loginEmail" placeholder="Email Address" required />
+            <div class="password-container">
+                <input type="password" class="password" id="loginPassword" placeholder="Password" required />
+            </div>
+            <button type="submit">Login</button>
+        </form>
+    </div>
+    <script src="~/js/inputField.js"></script>
+    <script src="~/js/registration.js"></script>
+    <script src="~/js/loginPage.js"></script>
+</body>
+</html>
