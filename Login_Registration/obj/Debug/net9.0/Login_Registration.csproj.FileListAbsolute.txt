@@ -22,8 +22,6 @@ C:\Users\charn\OneDrive\Desktop\Front_End\Login_Registration\obj\Debug\net9.0\co
 C:\Users\charn\OneDrive\Desktop\Front_End\Login_Registration\obj\Debug\net9.0\compressed\w82vylpppv-mbk6zhy04d.gz
 C:\Users\charn\OneDrive\Desktop\Front_End\Login_Registration\obj\Debug\net9.0\compressed\zm3tde6gjz-61n19gt1b8.gz
 C:\Users\charn\OneDrive\Desktop\Front_End\Login_Registration\obj\Debug\net9.0\compressed\rzm6778d3g-llsdk1xlju.gz
-C:\Users\charn\OneDrive\Desktop\Front_End\Login_Registration\obj\Debug\net9.0\compressed\8nd3ar8nap-xy02f1hdp2.gz
-C:\Users\charn\OneDrive\Desktop\Front_End\Login_Registration\obj\Debug\net9.0\compressed\b3vmrjb3b8-ij417fud5g.gz
 C:\Users\charn\OneDrive\Desktop\Front_End\Login_Registration\obj\Debug\net9.0\compressed\c3u27qx3da-xtxxf3hu2r.gz
 C:\Users\charn\OneDrive\Desktop\Front_End\Login_Registration\obj\Debug\net9.0\compressed\5yeg260ccl-bqjiyaj88i.gz
 C:\Users\charn\OneDrive\Desktop\Front_End\Login_Registration\obj\Debug\net9.0\compressed\dv6trj9mv8-c2jlpeoesf.gz
@@ -100,3 +98,6 @@ C:\Users\charn\OneDrive\Desktop\Front_End\Login_Registration\obj\Debug\net9.0\re
 C:\Users\charn\OneDrive\Desktop\Front_End\Login_Registration\obj\Debug\net9.0\Login_Registration.pdb
 C:\Users\charn\OneDrive\Desktop\Front_End\Login_Registration\obj\Debug\net9.0\Login_Registration.genruntimeconfig.cache
 C:\Users\charn\OneDrive\Desktop\Front_End\Login_Registration\obj\Debug\net9.0\ref\Login_Registration.dll
+C:\Users\charn\OneDrive\Desktop\Front_End\Login_Registration\obj\Debug\net9.0\Login_Registration.sourcelink.json
+C:\Users\charn\OneDrive\Desktop\Front_End\Login_Registration\obj\Debug\net9.0\compressed\8nd3ar8nap-n6zm7kzojj.gz
+C:\Users\charn\OneDrive\Desktop\Front_End\Login_Registration\obj\Debug\net9.0\compressed\b3vmrjb3b8-ra7n27hg1g.gz

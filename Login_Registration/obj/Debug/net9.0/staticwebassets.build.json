@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "X5XgS99xXMZwkzQK8TzNf+NBRUKnNzaIfd9KhhxEtWo=",
+  "Hash": "dkhtl8PkwUSi/Qe85BjVqOJtXbD3b7jCPUOHSmLKVEA=",
   "Source": "Login_Registration",
   "BasePath": "_content/Login_Registration",
   "Mode": "Default",
@@ -353,12 +353,12 @@
       "OriginalItemSpec": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\8nd3ar8nap-xy02f1hdp2.gz",
+      "Identity": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\8nd3ar8nap-n6zm7kzojj.gz",
       "SourceId": "Login_Registration",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Login_Registration",
-      "RelativePath": "js/loginPage#[.{fingerprint=xy02f1hdp2}]?.js.gz",
+      "RelativePath": "js/loginPage#[.{fingerprint=n6zm7kzojj}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -367,8 +367,8 @@
       "RelatedAsset": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\wwwroot\\js\\loginPage.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xf0pb2wfnb",
-      "Integrity": "gz4UeBFPiGj3u4vYLGNrQ+hK+C/Bs2tAWS4Ta5hZukQ=",
+      "Fingerprint": "wkla9fimom",
+      "Integrity": "wHA2Ce0v6+5F96uD9dOgc32b4zuWhzyjwS8c650qU18=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\wwwroot\\js\\loginPage.js"
@@ -479,12 +479,12 @@
       "OriginalItemSpec": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\b3vmrjb3b8-ij417fud5g.gz",
+      "Identity": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\b3vmrjb3b8-ra7n27hg1g.gz",
       "SourceId": "Login_Registration",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Login_Registration",
-      "RelativePath": "js/registration#[.{fingerprint=ij417fud5g}]?.js.gz",
+      "RelativePath": "js/registration#[.{fingerprint=ra7n27hg1g}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -493,8 +493,8 @@
       "RelatedAsset": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\wwwroot\\js\\registration.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2aqc7ifjs7",
-      "Integrity": "9lBLakqwJ5fMb8g96g1mLAn1X1ChjT0khtTtFgoeOdY=",
+      "Fingerprint": "7cgcr8bwly",
+      "Integrity": "SVfDeZpI6UHXs/zBtb7Yi4RQ8TOtZgWHhuqnE0iWVt0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\wwwroot\\js\\registration.js"
@@ -1648,8 +1648,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xy02f1hdp2",
-      "Integrity": "adQ2LqhD6UIYUM04VhTyaHO5V0m/X1Qg6wiorqu/KpA=",
+      "Fingerprint": "n6zm7kzojj",
+      "Integrity": "YT1jmYJClWaW4NcMKM5wwKx1FbwuP5seXzhvDKRWiHM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\loginPage.js"
@@ -1669,8 +1669,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ij417fud5g",
-      "Integrity": "PvAl6S3Zqqk/W5TBtcuVg+d7RlaKYFoVgrXpI+hfeQg=",
+      "Fingerprint": "ra7n27hg1g",
+      "Integrity": "Ta18hKMj0VysHdht5rKJNuXIxiP9zLVF0fB7OfYP3bc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\registration.js"
@@ -4532,12 +4532,12 @@
     },
     {
       "Route": "js/loginPage.js",
-      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\8nd3ar8nap-xy02f1hdp2.gz",
+      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\8nd3ar8nap-n6zm7kzojj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001855287570"
+          "Quality": "0.001851851852"
         }
       ],
       "ResponseHeaders": [
@@ -4547,15 +4547,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "538"
+          "Value": "539"
         },
         {
           "Name": "ETag",
-          "Value": "\"gz4UeBFPiGj3u4vYLGNrQ+hK+C/Bs2tAWS4Ta5hZukQ=\""
+          "Value": "\"wHA2Ce0v6+5F96uD9dOgc32b4zuWhzyjwS8c650qU18=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 13:47:02 GMT"
+          "Value": "Mon, 17 Feb 2025 07:29:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4575,13 +4575,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"adQ2LqhD6UIYUM04VhTyaHO5V0m/X1Qg6wiorqu/KpA=\""
+          "Value": "W/\"YT1jmYJClWaW4NcMKM5wwKx1FbwuP5seXzhvDKRWiHM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-adQ2LqhD6UIYUM04VhTyaHO5V0m/X1Qg6wiorqu/KpA="
+          "Value": "sha256-YT1jmYJClWaW4NcMKM5wwKx1FbwuP5seXzhvDKRWiHM="
         }
       ]
     },
@@ -4604,11 +4604,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"adQ2LqhD6UIYUM04VhTyaHO5V0m/X1Qg6wiorqu/KpA=\""
+          "Value": "\"YT1jmYJClWaW4NcMKM5wwKx1FbwuP5seXzhvDKRWiHM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 13:47:02 GMT"
+          "Value": "Mon, 17 Feb 2025 07:29:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4618,13 +4618,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-adQ2LqhD6UIYUM04VhTyaHO5V0m/X1Qg6wiorqu/KpA="
+          "Value": "sha256-YT1jmYJClWaW4NcMKM5wwKx1FbwuP5seXzhvDKRWiHM="
         }
       ]
     },
     {
       "Route": "js/loginPage.js.gz",
-      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\8nd3ar8nap-xy02f1hdp2.gz",
+      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\8nd3ar8nap-n6zm7kzojj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4633,7 +4633,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "538"
+          "Value": "539"
         },
         {
           "Name": "Content-Type",
@@ -4641,11 +4641,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gz4UeBFPiGj3u4vYLGNrQ+hK+C/Bs2tAWS4Ta5hZukQ=\""
+          "Value": "\"wHA2Ce0v6+5F96uD9dOgc32b4zuWhzyjwS8c650qU18=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 13:47:02 GMT"
+          "Value": "Mon, 17 Feb 2025 07:29:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4663,18 +4663,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gz4UeBFPiGj3u4vYLGNrQ+hK+C/Bs2tAWS4Ta5hZukQ="
+          "Value": "sha256-wHA2Ce0v6+5F96uD9dOgc32b4zuWhzyjwS8c650qU18="
         }
       ]
     },
     {
-      "Route": "js/loginPage.xy02f1hdp2.js",
-      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\8nd3ar8nap-xy02f1hdp2.gz",
+      "Route": "js/loginPage.n6zm7kzojj.js",
+      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\8nd3ar8nap-n6zm7kzojj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001855287570"
+          "Quality": "0.001851851852"
         }
       ],
       "ResponseHeaders": [
@@ -4684,15 +4684,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "538"
+          "Value": "539"
         },
         {
           "Name": "ETag",
-          "Value": "\"gz4UeBFPiGj3u4vYLGNrQ+hK+C/Bs2tAWS4Ta5hZukQ=\""
+          "Value": "\"wHA2Ce0v6+5F96uD9dOgc32b4zuWhzyjwS8c650qU18=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 13:47:02 GMT"
+          "Value": "Mon, 17 Feb 2025 07:29:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4712,13 +4712,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"adQ2LqhD6UIYUM04VhTyaHO5V0m/X1Qg6wiorqu/KpA=\""
+          "Value": "W/\"YT1jmYJClWaW4NcMKM5wwKx1FbwuP5seXzhvDKRWiHM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xy02f1hdp2"
+          "Value": "n6zm7kzojj"
         },
         {
           "Name": "label",
@@ -4726,12 +4726,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-adQ2LqhD6UIYUM04VhTyaHO5V0m/X1Qg6wiorqu/KpA="
+          "Value": "sha256-YT1jmYJClWaW4NcMKM5wwKx1FbwuP5seXzhvDKRWiHM="
         }
       ]
     },
     {
-      "Route": "js/loginPage.xy02f1hdp2.js",
+      "Route": "js/loginPage.n6zm7kzojj.js",
       "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\wwwroot\\js\\loginPage.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4749,11 +4749,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"adQ2LqhD6UIYUM04VhTyaHO5V0m/X1Qg6wiorqu/KpA=\""
+          "Value": "\"YT1jmYJClWaW4NcMKM5wwKx1FbwuP5seXzhvDKRWiHM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 13:47:02 GMT"
+          "Value": "Mon, 17 Feb 2025 07:29:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4763,7 +4763,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xy02f1hdp2"
+          "Value": "n6zm7kzojj"
         },
         {
           "Name": "label",
@@ -4771,13 +4771,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-adQ2LqhD6UIYUM04VhTyaHO5V0m/X1Qg6wiorqu/KpA="
+          "Value": "sha256-YT1jmYJClWaW4NcMKM5wwKx1FbwuP5seXzhvDKRWiHM="
         }
       ]
     },
     {
-      "Route": "js/loginPage.xy02f1hdp2.js.gz",
-      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\8nd3ar8nap-xy02f1hdp2.gz",
+      "Route": "js/loginPage.n6zm7kzojj.js.gz",
+      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\8nd3ar8nap-n6zm7kzojj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4786,7 +4786,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "538"
+          "Value": "539"
         },
         {
           "Name": "Content-Type",
@@ -4794,11 +4794,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gz4UeBFPiGj3u4vYLGNrQ+hK+C/Bs2tAWS4Ta5hZukQ=\""
+          "Value": "\"wHA2Ce0v6+5F96uD9dOgc32b4zuWhzyjwS8c650qU18=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 13:47:02 GMT"
+          "Value": "Mon, 17 Feb 2025 07:29:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4816,7 +4816,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xy02f1hdp2"
+          "Value": "n6zm7kzojj"
         },
         {
           "Name": "label",
@@ -4824,13 +4824,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gz4UeBFPiGj3u4vYLGNrQ+hK+C/Bs2tAWS4Ta5hZukQ="
+          "Value": "sha256-wHA2Ce0v6+5F96uD9dOgc32b4zuWhzyjwS8c650qU18="
         }
       ]
     },
     {
-      "Route": "js/registration.ij417fud5g.js",
-      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\b3vmrjb3b8-ij417fud5g.gz",
+      "Route": "js/registration.js",
+      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\b3vmrjb3b8-ra7n27hg1g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4849,15 +4849,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9lBLakqwJ5fMb8g96g1mLAn1X1ChjT0khtTtFgoeOdY=\""
+          "Value": "\"SVfDeZpI6UHXs/zBtb7Yi4RQ8TOtZgWHhuqnE0iWVt0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 13:47:27 GMT"
+          "Value": "Mon, 17 Feb 2025 07:29:02 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -4873,26 +4873,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"PvAl6S3Zqqk/W5TBtcuVg+d7RlaKYFoVgrXpI+hfeQg=\""
+          "Value": "W/\"Ta18hKMj0VysHdht5rKJNuXIxiP9zLVF0fB7OfYP3bc=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "ij417fud5g"
-        },
-        {
-          "Name": "label",
-          "Value": "js/registration.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-PvAl6S3Zqqk/W5TBtcuVg+d7RlaKYFoVgrXpI+hfeQg="
+          "Value": "sha256-Ta18hKMj0VysHdht5rKJNuXIxiP9zLVF0fB7OfYP3bc="
         }
       ]
     },
     {
-      "Route": "js/registration.ij417fud5g.js",
+      "Route": "js/registration.js",
       "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\wwwroot\\js\\registration.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4910,35 +4902,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PvAl6S3Zqqk/W5TBtcuVg+d7RlaKYFoVgrXpI+hfeQg=\""
+          "Value": "\"Ta18hKMj0VysHdht5rKJNuXIxiP9zLVF0fB7OfYP3bc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 13:47:27 GMT"
+          "Value": "Mon, 17 Feb 2025 07:29:02 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "ij417fud5g"
-        },
-        {
-          "Name": "label",
-          "Value": "js/registration.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-PvAl6S3Zqqk/W5TBtcuVg+d7RlaKYFoVgrXpI+hfeQg="
+          "Value": "sha256-Ta18hKMj0VysHdht5rKJNuXIxiP9zLVF0fB7OfYP3bc="
         }
       ]
     },
     {
-      "Route": "js/registration.ij417fud5g.js.gz",
-      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\b3vmrjb3b8-ij417fud5g.gz",
+      "Route": "js/registration.js.gz",
+      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\b3vmrjb3b8-ra7n27hg1g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4955,11 +4939,164 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9lBLakqwJ5fMb8g96g1mLAn1X1ChjT0khtTtFgoeOdY=\""
+          "Value": "\"SVfDeZpI6UHXs/zBtb7Yi4RQ8TOtZgWHhuqnE0iWVt0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 13:47:27 GMT"
+          "Value": "Mon, 17 Feb 2025 07:29:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SVfDeZpI6UHXs/zBtb7Yi4RQ8TOtZgWHhuqnE0iWVt0="
+        }
+      ]
+    },
+    {
+      "Route": "js/registration.ra7n27hg1g.js",
+      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\b3vmrjb3b8-ra7n27hg1g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001014198783"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "985"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SVfDeZpI6UHXs/zBtb7Yi4RQ8TOtZgWHhuqnE0iWVt0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 07:29:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ta18hKMj0VysHdht5rKJNuXIxiP9zLVF0fB7OfYP3bc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ra7n27hg1g"
+        },
+        {
+          "Name": "label",
+          "Value": "js/registration.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ta18hKMj0VysHdht5rKJNuXIxiP9zLVF0fB7OfYP3bc="
+        }
+      ]
+    },
+    {
+      "Route": "js/registration.ra7n27hg1g.js",
+      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\wwwroot\\js\\registration.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2874"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ta18hKMj0VysHdht5rKJNuXIxiP9zLVF0fB7OfYP3bc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 07:29:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ra7n27hg1g"
+        },
+        {
+          "Name": "label",
+          "Value": "js/registration.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ta18hKMj0VysHdht5rKJNuXIxiP9zLVF0fB7OfYP3bc="
+        }
+      ]
+    },
+    {
+      "Route": "js/registration.ra7n27hg1g.js.gz",
+      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\b3vmrjb3b8-ra7n27hg1g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SVfDeZpI6UHXs/zBtb7Yi4RQ8TOtZgWHhuqnE0iWVt0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 07:29:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4977,7 +5114,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ij417fud5g"
+          "Value": "ra7n27hg1g"
         },
         {
           "Name": "label",
@@ -4985,144 +5122,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9lBLakqwJ5fMb8g96g1mLAn1X1ChjT0khtTtFgoeOdY="
-        }
-      ]
-    },
-    {
-      "Route": "js/registration.js",
-      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\b3vmrjb3b8-ij417fud5g.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001014198783"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "985"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9lBLakqwJ5fMb8g96g1mLAn1X1ChjT0khtTtFgoeOdY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 13:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"PvAl6S3Zqqk/W5TBtcuVg+d7RlaKYFoVgrXpI+hfeQg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PvAl6S3Zqqk/W5TBtcuVg+d7RlaKYFoVgrXpI+hfeQg="
-        }
-      ]
-    },
-    {
-      "Route": "js/registration.js",
-      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\wwwroot\\js\\registration.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2874"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PvAl6S3Zqqk/W5TBtcuVg+d7RlaKYFoVgrXpI+hfeQg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 13:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PvAl6S3Zqqk/W5TBtcuVg+d7RlaKYFoVgrXpI+hfeQg="
-        }
-      ]
-    },
-    {
-      "Route": "js/registration.js.gz",
-      "AssetFile": "C:\\Users\\charn\\OneDrive\\Desktop\\Front_End\\Login_Registration\\obj\\Debug\\net9.0\\compressed\\b3vmrjb3b8-ij417fud5g.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "985"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9lBLakqwJ5fMb8g96g1mLAn1X1ChjT0khtTtFgoeOdY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 13:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9lBLakqwJ5fMb8g96g1mLAn1X1ChjT0khtTtFgoeOdY="
+          "Value": "sha256-SVfDeZpI6UHXs/zBtb7Yi4RQ8TOtZgWHhuqnE0iWVt0="
         }
       ]
     },
